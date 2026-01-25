@@ -21,7 +21,7 @@ require (
 	github.com/Djarvur/go-err113 v0.1.1
 	github.com/MirrexOne/unqueryvet v1.5.0
 	github.com/OpenPeeDeeP/depguard/v2 v2.2.1
-	github.com/alecthomas/chroma/v2 v2.22.0
+	github.com/alecthomas/chroma/v2 v2.23.0
 	github.com/alecthomas/go-check-sumtype v0.3.1
 	github.com/alexkohler/nakedret/v2 v2.0.6
 	github.com/alexkohler/prealloc v1.0.2
@@ -32,7 +32,7 @@ require (
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bombsimon/wsl/v4 v4.7.0
-	github.com/bombsimon/wsl/v5 v5.3.0
+	github.com/bombsimon/wsl/v5 v5.6.0
 	github.com/breml/bidichk v0.3.3
 	github.com/breml/errchkjson v0.4.1
 	github.com/butuzov/ireturn v0.4.0
